@@ -76,17 +76,6 @@ service worker básico
 
 Suporte a modo offline (cache inicial do Vite)
 
-📌 Tecnologias Usadas
-
-Node.js + Express
-
-React + Vite
-
-JavaScript / TypeScript
-
-PWA (manifest + service worker)
-
-Fetch API
 
 👨‍💻 Autor
 
