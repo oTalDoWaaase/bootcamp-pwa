@@ -24,27 +24,16 @@ Este projeto contém:
 ### 🖼️ Print 2 — API + Front rodando juntos
 ![Print 2](https://github.com/oTalDoWaaase/bootcamp-pwa/blob/main/Print2.png?raw=true)
 
-📁 Estrutura do Projeto
-bootcamp-pwa/
- ├── apps/
- │    ├── api/       → Node + Express (porta 3000)
- │    └── web/       → Vite + React (porta 5173)
- ├── README.md
- └── como rodar.txt
 
 🧪 Pré-requisitos
-
 Node.js instalado
-
 NPM ou Yarn
-
 Navegador moderno (Chrome/Edge)
 
 🛠️ Como Rodar o Projeto
 1️⃣ Rodar a API (porta 3000)
 
 Abra um terminal e execute:
-
 cd apps/api
 npm install
 node index.js
@@ -56,7 +45,6 @@ A API ficará disponível em:
 2️⃣ Rodar o Frontend (porta 5173)
 
 Abra outro terminal:
-
 cd apps/web
 npm install
 npm run dev
@@ -68,7 +56,6 @@ O frontend ficará acessível em:
 🔗 Funcionamento
 
 O React faz uma requisição para:
-
 http://localhost:3000/api/hello
 
 
