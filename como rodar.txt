@@ -1,0 +1,38 @@
+INSTRUÇÕES DE EXECUÇÃO – BOOTCAMP II (PWA+API) Aluno: Luís Eduardo
+Projeto: PWA+API Node/Express
+
+------------------------------------------------------------------------
+
+Estrutura do Projeto O projeto está organizado na pasta bootcamp-pwa/
+com duas aplicações:
+
+apps/ ├── api/ → Backend Node/Express └── web/ → Frontend (Vite+React - PWA)
+
+------------------------------------------------------------------------
+
+Como Rodar o Projeto (LOCAL)
+
+1)  Executar a API
+
+-  Abra um terminal
+-  Entre na pasta da API: cd apps/api
+-  Instale as dependências: npm install
+-  Execute a API: node index.js
+
+A API ficará em: http://localhost:xxxx/api/hello
+
+------------------------------------------------------------------------
+
+2)  Executar o Frontend (PWA)
+
+-  Abra outro terminal
+-  Entre na pasta do front: cd apps/web
+-  Instale as dependências: npm install
+-  Execute o PWA: npm run dev
+
+O frontend ficará em: http://localhost:xxxx
+
+------------------------------------------------------------------------
+Integração O frontend consome automaticamente a API exibindo a
+mensagem retornada.
+
