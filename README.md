@@ -14,6 +14,16 @@ Este projeto contém:
 
 ✔️ Arquitetura simples, organizada e fácil de rodar
 
+## 📸 Prints do Projeto
+
+### 🖼️ Print 1 — Estrutura do Projeto
+![Print 1](https://github.com/oTalDoWaaase/bootcamp-pwa/blob/main/Print1.png?raw=true)
+
+---
+
+### 🖼️ Print 2 — API + Front rodando juntos
+![Print 2](https://github.com/oTalDoWaaase/bootcamp-pwa/blob/main/Print2.png?raw=true)
+
 📁 Estrutura do Projeto
 bootcamp-pwa/
  ├── apps/
